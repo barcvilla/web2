@@ -7,3 +7,5 @@ Contributors Guide
 =================
 
 Just fork de repo and send me a pull request.
+
+We add more text
